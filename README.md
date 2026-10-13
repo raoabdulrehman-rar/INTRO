@@ -1,10 +1,21 @@
 <h3 align="left">Hi</h3>
 <p align="left">
- I'm Rao Abdul Rehman, CEO – Bin Wakeel Trust | Founder – SSF | Python, Swift, 
- Kotlin, Flutter, MERN, PHP, React & JS Developer | Sponsor, Ambassador, Influencer, 
- Academician, Ethical Hacker(CEH) | Entrepreneur, Career Counselor, Consultant, Defender 
- & Investigator | Strategist, Enthusiast, Governor, Contributor, Engineer, Architect & Agentic 
- Master
+  I'm Rao Abdul Rehman, passionate about technology, innovation, community development 
+  and empowering the next generation of developers. As the CEO of Bin Wakeel Trust
+  and Founder of Super Sikandar Force (SSF), I focus on leadership, empowerment, education 
+  and building communities that encourage collaboration, creativity and positive social impact.
+
+ <p>I contribute to technology awareness, educational initiatives and community engagement through 
+  my work as a Sponsor, Ambassador, Influencer, Academician, Entrepreneur, Career Counselor and 
+  Consultant. Committed to helping students and aspiring professionals develop their skills, 
+  explore career opportunities and use technology to turn ideas into meaningful projects.
+
+  <p>My interests include strategic leadership, defense, investigation, engineering, architecture
+     and intelligent AI powered systems. As a strategist, enthusiast, governor, contributor and agentic AI 
+     practitioner, I aim to connect technical expertise with visionary leadership, fostering innovation, 
+     strengthening communities and creating opportunities for future generations.
+
+<br>
 </p>
 
 <p align="center">
