@@ -1,6 +1,4 @@
 # INTRO
-Personal Repository
-
 <h3 align="left">Hi</h3>
 <p align="left">
  I'm Rao Abdul Rehman, CEO – Bin Wakeel Trust | Founder – SSF | Python, Swift, 
