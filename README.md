@@ -28,6 +28,20 @@
 </p>
 
 
+<h3 align="left">Mission</h3>
+My mission is to equip students, individuals and communities through education, 
+skill development, technology, innovation, leadership and meaningful opportunities, 
+with a particular focus on enabling young people to develop the skills, confidence, 
+knowledge and vision required to succeed in a rapidly evolving digital world. 
+I’m committed to building bridges between students, educators, government institutions, 
+industry leaders, technology organizations, development ecosystems and global communities 
+to transform ideas into practical opportunities. I strive to create an environment where talent 
+is recognized, potential is developed, and every capable individual has the opportunity to contribute. 
+Creating pathways that turn knowledge into action and ambition into achievements. I seek to contribute to 
+a skilled, educated, digitally empowered, innovative and opportunity driven Pakistan where young people are not 
+merely prepared for the future, but are equipped to shape, lead and build it.
+
+
 <h3 align="left">Communities</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" 
