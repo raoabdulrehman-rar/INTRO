@@ -1,8 +1,7 @@
 <h3 align="left">Hi</h3>
 <p align="left">
   I'm Rao Abdul Rehman, passionate about technology, innovation, community development 
-  and empowering the next generation of developers. As the CEO of Bin Wakeel Trust
-  and Founder of Super Sikandar Force (SSF), I focus on leadership, empowerment, education 
+  and empowering the next generation of developers. I focus on leadership, empowerment, education 
   and building communities that encourage collaboration, creativity and positive social impact.
 
  <p>I contribute to technology awareness, educational initiatives and community engagement through 
